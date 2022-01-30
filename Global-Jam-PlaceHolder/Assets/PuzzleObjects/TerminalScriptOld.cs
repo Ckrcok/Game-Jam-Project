@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TerminalScript : MonoBehaviour
+public class TerminalScriptOld : MonoBehaviour
 {
     public Camera cam;
     public GameObject terminalScreen;
