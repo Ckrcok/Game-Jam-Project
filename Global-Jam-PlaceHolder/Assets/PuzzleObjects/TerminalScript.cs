@@ -19,8 +19,8 @@ public class TerminalScript : MonoBehaviour
     {
         // if (Input.GetKeyDown(KeyCode.E))
         //{
-        cam = GameObject.Find("Topdown Camera").GetComponent<Camera>();
-        cam.transform.position = new Vector3(x, y, -10);
+        //cam = GameObject.Find("Topdown Camera").GetComponent<Camera>();
+        //cam.transform.position = new Vector3(x, y, -10);
        // }
     }
 
